@@ -21,7 +21,7 @@ User Manager App — это веб-приложение, разработанн�
    git clone https://github.com/Ukobak/user-manager-app.git
 2. Перейдите в директорию проекта:
    ```bash
-   cd weather-app
+   cd user-manager-app
 3. Установите зависимости:
    ```bash
    npm install
