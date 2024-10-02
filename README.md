@@ -9,7 +9,7 @@ User Manager App — это веб-приложение, разработанн�
 - **TypeScript**
 - **React**
 - **Redux**
-- **React Query**
+- **React Query (Tanstack query)**
 - **Axios**
 - **Fluent UI**
 - **JSONPlaceholder** (для получения данных)
